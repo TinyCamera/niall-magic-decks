@@ -39,3 +39,96 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 | Enchantment | 3     |
 | Land        | 35    |
 | **Total**   | **100** |
+
+## Decklist
+
+### Commander (1)
+1x Magda, Brazen Outlaw
+
+### Creatures (32)
+1x Dwarven Grunt
+1x Axgard Cavalry
+1x Bloodfire Dwarf
+1x Dwarven Scorcher
+1x Dwarven Trader
+1x Magda, the Hoardmaster
+1x Plundering Barbarian
+1x Gloin, Dwarf Emissary
+1x Gimli of the Glittering Caves
+1x Dwarven Bloodboiler
+1x Torbran, Thane of Red Fell
+1x Fearless Liberator
+1x Dwarven Recruiter
+1x Storm-Kiln Artist
+1x Seven Dwarves
+1x Dwarven Armorer
+1x Barkform Harvester
+1x Universal Automaton
+1x Adaptive Automaton
+1x Metallic Mimic
+1x Roaming Throne
+1x Xorn
+1x Academy Manufactor
+1x Reckless Fireweaver
+1x Professional Face-Breaker
+1x Goblin Engineer
+1x Hellkite Tyrant
+1x Goldspan Dragon
+1x Drakuseth, Maw of Flames
+1x Terror of the Peaks
+1x Cavern-Hoard Dragon
+1x Utvara Hellkite
+
+### Sorceries (6)
+1x Blasphemous Act
+1x Vandalblast
+1x Seize the Spoils
+1x Strike It Rich
+1x Brass's Bounty
+1x Sundering Eruption
+
+### Instants (8)
+1x Lightning Bolt
+1x Chaos Warp
+1x Abrade
+1x Deflecting Swat
+1x Red Elemental Blast
+1x Galvanic Blast
+1x Bottle-Cap Blast
+1x Return the Favor
+
+### Enchantments (3)
+1x Blood Moon
+1x Sticky Fingers
+1x There and Back Again
+
+### Artifacts (15)
+1x Sol Ring
+1x Springleaf Drum
+1x Liquimetal Torque
+1x Cursed Mirror
+1x Flywheel Racer
+1x Clock of Omens
+1x Maskwood Nexus
+1x Smuggler's Copter
+1x Clown Car
+1x High-Speed Hoverbike
+1x Lifecraft Engine
+1x Portal to Phyrexia
+1x Sculpting Steel
+1x Spine of Ish Sah
+1x God-Pharaoh's Statue
+
+### Lands (35)
+24x Mountain
+1x Treasure Vault
+1x Dwarven Mine
+1x Mutavault
+1x Great Furnace
+1x Mines of Moria
+1x Holdout Settlement
+1x Survivors' Encampment
+1x Volatile Fault
+1x Command Beacon
+1x Buried Ruin
+1x Shinka, the Bloodsoaked Keep

@@ -1,6 +1,6 @@
 # Omnath, Locus of Rage
 
-**Color Identity:** Gruul (Red/Green) | **Bracket:** 3 (Upgraded) | **Cards:** 112 (built for MPC printing)
+**Color Identity:** Gruul (Red/Green) | **Bracket:** 3 (Upgraded) | **Cards:** 107 (built for MPC printing)
 
 ## Theme
 
@@ -41,3 +41,103 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 | **Total**     | **107** |
 
 *Note: Deck is 112 slots for MPC.com printing. The difference accounts for extra copies or proxy slots.*
+
+## Decklist
+
+### Commander (1)
+1x Omnath, Locus of Rage
+
+### Creatures (28)
+1x Ancient Greenwarden
+1x Avenger of Zendikar
+1x Azusa, Lost but Seeking
+1x Courser of Kruphix
+1x Dryad of the Ilysian Grove
+1x Eternal Witness
+1x Geode Rager
+1x Goblin Anarchomancer
+1x Lotus Cobra
+1x Mina and Denn, Wildborn
+1x Moraug, Fury of Akoum
+1x Mossborn Hydra
+1x Oracle of Mul Daya
+1x Phylath, World Sculptor
+1x Radha, Heart of Keld
+1x Rampaging Baloths
+1x Ramunap Excavator
+1x Sakura-Tribe Elder
+1x Scute Swarm
+1x Springbloom Druid
+1x Tannuk, Memorial Ensign
+1x Tireless Provisioner
+1x Tireless Tracker
+1x Titania, Protector of Argoth
+1x Undergrowth Champion
+1x Zell Dincht
+1x Rampant Frogantua
+1x Sabotender
+
+### Planeswalkers (2)
+1x Nissa, Vital Force
+1x Nissa, Who Shakes the World
+
+### Sorceries (17)
+1x Awaken the Woods
+1x Blasphemous Act
+1x Cultivate
+1x Entish Restoration
+1x Explore
+1x Farseek
+1x From the Ashes
+1x Harmonize
+1x Kodama's Reach
+1x Nature's Lore
+1x Roiling Regrowth
+1x Scapeshift
+1x Shamanic Revelation
+1x Skyshroud Claim
+1x Splendid Reclamation
+1x Three Visits
+1x Worldsoul's Rage
+
+### Instants (4)
+1x Beast Within
+1x Chaos Warp
+1x Crop Rotation
+1x Harrow
+
+### Enchantments (10)
+1x Elemental Bond
+1x Exploration
+1x Burgeoning
+1x Garruk's Uprising
+1x Greater Good
+1x Khalni Heart Expedition
+1x Perilous Forays
+1x Warstorm Surge
+1x Where Ancients Tread
+1x Zendikar's Roil
+
+### Artifacts (5)
+1x Conduit of Worlds
+1x Crucible of Worlds
+1x Seer's Sundial
+1x Sol Ring
+1x Swiftfoot Boots
+
+### Lands (40)
+1x Blighted Woodland
+1x Cabaretti Courtyard
+1x Cinder Glade
+1x Command Tower
+1x Fabled Passage
+14x Forest
+1x Ghost Town
+1x Gruul Turf
+13x Mountain
+1x Myriad Landscape
+1x Reliquary Tower
+1x Riveteers Overlook
+1x Rootbound Crag
+1x Sheltered Thicket
+1x Terramorphic Expanse

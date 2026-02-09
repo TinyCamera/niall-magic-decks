@@ -32,3 +32,95 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 | Artifact     | 8     |
 | Land         | 35    |
 | **Total**    | **100** |
+
+## Decklist
+
+### Commander (1)
+1x Seshiro the Anointed
+
+### Creatures (34)
+1x Sosuke, Son of Seshiro
+1x Shisato, Whispering Hunter
+1x Sachi, Daughter of Seshiro
+1x Ohran Frostfang
+1x Ohran Viper
+1x Sakura-Tribe Elder
+1x Sakura-Tribe Scout
+1x Orochi Sustainer
+1x Kashi-Tribe Elite
+1x Matsu-Tribe Decoy
+1x Matsu-Tribe Sniper
+1x Orochi Ranger
+1x Ambush Viper
+1x River Boa
+1x Prowling Serpopard
+1x Lotus Cobra
+1x Hooded Hydra
+1x Skullwinder
+1x Orochi Eggwatcher
+1x Snarespinner
+1x Wren's Run Hydra
+1x Honored Hydra
+1x Fynn, the Fangbearer
+1x Bramblewood Paragon
+1x Champion of Lambholt
+1x Ivy Lane Denizen
+1x Scurry Oak
+1x Beast Whisperer
+1x Reclamation Sage
+1x Eternal Witness
+1x Seedborn Muse
+1x Wood Elves
+1x Topiary Stomper
+1x Toski, Bearer of Secrets
+
+### Sorceries (8)
+1x Overwhelming Stampede
+1x Triumph of the Hordes
+1x Natural Order
+1x Kodama's Reach
+1x Cultivate
+1x Sosuke's Summons
+1x Rampant Growth
+1x Green Sun's Zenith
+
+### Instants (7)
+1x Beast Within
+1x Heroic Intervention
+1x Cobra Trap
+1x Chord of Calling
+1x Collected Company
+1x Wrap in Vigor
+1x Nature's Claim
+
+### Enchantments (7)
+1x Guardian Project
+1x Beastmaster Ascension
+1x Snake Pit
+1x Seed the Land
+1x Parallel Lives
+1x Growing Rites of Itlimoc
+1x Elemental Bond
+
+### Artifacts (8)
+1x Sol Ring
+1x Orochi Hatchery
+1x Herald's Horn
+1x Door of Destinies
+1x Coat of Arms
+1x Lightning Greaves
+1x Swiftfoot Boots
+1x Obelisk of Urd
+
+### Lands (35)
+1x Gaea's Cradle
+1x Nykthos, Shrine to Nyx
+1x Castle Garenbrig
+1x Oran-Rief, the Vastwood
+1x Mosswort Bridge
+1x Boseiju, Who Endures
+1x Yavimaya Hollow
+1x Command Tower
+1x Okina, Temple to the Grandfathers
+1x War Room
+25x Forest

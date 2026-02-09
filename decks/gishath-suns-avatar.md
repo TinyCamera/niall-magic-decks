@@ -40,3 +40,104 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 | Artifact    | 6     |
 | Land        | 36    |
 | **Total**   | **100** |
+
+## Decklist
+
+### Commander (1)
+1x Gishath, Sun's Avatar
+
+### Creatures (32)
+1x Zacama, Primal Calamity
+1x Ghalta, Primal Hunger
+1x Etali, Primal Storm
+1x Zetalpa, Primal Dawn
+1x Carnage Tyrant
+1x Wakening Sun's Avatar
+1x Burning Sun's Avatar
+1x Verdant Sun's Avatar
+1x Pantlaza, Sun-Favored
+1x Regisaur Alpha
+1x Temple Altisaur
+1x Quartzwood Crasher
+1x Apex Altisaur
+1x Trapjaw Tyrant
+1x Goring Ceratops
+1x Ripjaw Raptor
+1x Bonehoard Dracosaur
+1x Trumpeting Carnosaur
+1x Hulking Raptor
+1x Ancient Imperiosaur
+1x Ranging Raptors
+1x Thrashing Brontodon
+1x Topiary Stomper
+1x Wayward Swordtooth
+1x Kinjalli's Caller
+1x Otepec Huntmaster
+1x Marauding Raptor
+1x Forerunner of the Empire
+1x Runic Armasaur
+1x Kinjalli's Sunwing
+1x Pugnacious Hammerskull
+1x Palani's Hatcher
+
+### Sorceries (10)
+1x Cultivate
+1x Kodama's Reach
+1x Farseek
+1x Nature's Lore
+1x Three Visits
+1x Skyshroud Claim
+1x Rampant Growth
+1x Thunderherd Migration
+1x Commune with Dinosaurs
+1x Blasphemous Act
+
+### Instants (9)
+1x Swords to Plowshares
+1x Path to Exile
+1x Heroic Intervention
+1x Boros Charm
+1x Beast Within
+1x Return of the Wildspeaker
+1x Congregation at Dawn
+1x Akroma's Will
+1x Eladamri's Call
+
+### Enchantments (6)
+1x Rhythm of the Wild
+1x Elemental Bond
+1x Garruk's Uprising
+1x Mirari's Wake
+1x Descendants' Path
+1x Where Ancients Tread
+
+### Artifacts (6)
+1x Sol Ring
+1x Arcane Signet
+1x Herald's Horn
+1x Urza's Incubator
+1x Swiftfoot Boots
+1x The Great Henge
+
+### Lands (36)
+9x Forest
+5x Mountain
+4x Plains
+1x Command Tower
+1x Path of Ancestry
+1x Jungle Shrine
+1x Cinder Glade
+1x Canopy Vista
+1x Rootbound Crag
+1x Sunpetal Grove
+1x Clifftop Retreat
+1x Stomping Ground
+1x Rogue's Passage
+1x Kessig Wolf Run
+1x Mosswort Bridge
+1x Exotic Orchard
+1x Scattered Groves
+1x Fortified Village
+1x Game Trail
+1x Mossfire Valley
+1x Temple of the False God

@@ -32,3 +32,94 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 | Artifact     | 12    |
 | Land         | 37    |
 | **Total**    | **100** |
+
+## Decklist
+
+### Commander (1)
+1x Takeno, Samurai General
+
+### Creatures (29)
+1x Konda, Lord of Eiganjo
+1x Nagao, Bound by Honor
+1x Sensei Golden-Tail
+1x Kentaro, the Smiling Cat
+1x Konda's Hatamoto
+1x Kitsune Blademaster
+1x Samurai of the Pale Curtain
+1x Opal-Eye, Konda's Yojimbo
+1x Hand of Honor
+1x Mothrider Samurai
+1x Inner-Chamber Guard
+1x Devoted Retainer
+1x Araba Mothrider
+1x Kitsune Dawnblade
+1x Takeno's Cavalry
+1x Indebted Samurai
+1x Bushi Tenderfoot
+1x Selfless Samurai
+1x Eiganjo Exemplar
+1x Norika Yamazaki, the Poet
+1x Esper Sentinel
+1x Masako the Humorless
+1x Michiko Konda, Truth Seeker
+1x Rune-Tail, Kitsune Ascendant
+1x Thalia, Guardian of Thraben
+1x Adeline, Resplendent Cathar
+1x Knight of the White Orchid
+1x Mentor of the Meek
+1x Sun Titan
+
+### Planeswalkers (1)
+1x The Wandering Emperor
+
+### Sorceries (5)
+1x Farewell
+1x Imperial Oath
+1x Open the Armory
+1x Cut a Deal
+1x Gift of Estates
+
+### Instants (8)
+1x Swords to Plowshares
+1x Path to Exile
+1x Brave the Elements
+1x Unbreakable Formation
+1x Akroma's Will
+1x Return to Dust
+1x Rebuff the Wicked
+1x Enlightened Tutor
+
+### Enchantments (7)
+1x Smothering Tithe
+1x Honor of the Pure
+1x Flowering of the White Tree
+1x Brave the Sands
+1x True Conviction
+1x Cathars' Crusade
+1x Ghostly Prison
+
+### Artifacts (12)
+1x Sol Ring
+1x Arcane Signet
+1x Pearl Medallion
+1x Herald's Horn
+1x Oathkeeper, Takeno's Daisho
+1x Konda's Banner
+1x Ancestral Katana
+1x O-Naginata
+1x Umezawa's Jitte
+1x Swiftfoot Boots
+1x Vanquisher's Banner
+1x Door of Destinies
+
+### Lands (37)
+1x Eiganjo Castle
+1x Eiganjo, Seat of the Empire
+1x Emeria, the Sky Ruin
+1x Path of Ancestry
+1x Myriad Landscape
+1x War Room
+1x Rogue's Passage
+1x Castle Ardenvale
+1x Temple of the False God
+28x Plains
