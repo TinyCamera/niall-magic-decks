@@ -36,10 +36,11 @@ Ramp in the early turns with mana rocks and land-fetching sorceries. Deploy chea
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x The First Sliver
 
-### Creatures (35)
+Creatures (35)
 1x Galerider Sliver
 1x Striking Sliver
 1x Sinew Sliver
@@ -76,7 +77,7 @@ Ramp in the early turns with mana rocks and land-fetching sorceries. Deploy chea
 1x Sliver Legion
 1x Synapse Sliver
 
-### Sorceries (7)
+Sorceries (7)
 1x Farseek
 1x Cultivate
 1x Kodama's Reach
@@ -85,21 +86,21 @@ Ramp in the early turns with mana rocks and land-fetching sorceries. Deploy chea
 1x Kindred Charge
 1x Patriarch's Bidding
 
-### Instants (5)
+Instants (5)
 1x Generous Gift
 1x Swords to Plowshares
 1x Beast Within
 1x Heroic Intervention
 1x Eladamri's Call
 
-### Enchantments (5)
+Enchantments (5)
 1x Descendants' Path
 1x Kindred Discovery
 1x Guardian Project
 1x Shared Animosity
 1x Mirari's Wake
 
-### Artifacts (10)
+Artifacts (10)
 1x Sol Ring
 1x Arcane Signet
 1x Chromatic Lantern
@@ -111,7 +112,7 @@ Ramp in the early turns with mana rocks and land-fetching sorceries. Deploy chea
 1x Coat of Arms
 1x Lightning Greaves
 
-### Lands (37)
+Lands (37)
 1x Command Tower
 1x Cavern of Souls
 1x Sliver Hive
@@ -144,3 +145,4 @@ Ramp in the early turns with mana rocks and land-fetching sorceries. Deploy chea
 2x Plains
 2x Mountain
 2x Swamp
+```

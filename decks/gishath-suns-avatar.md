@@ -43,10 +43,11 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Gishath, Sun's Avatar
 
-### Creatures (32)
+Creatures (32)
 1x Zacama, Primal Calamity
 1x Ghalta, Primal Hunger
 1x Etali, Primal Storm
@@ -80,7 +81,7 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Pugnacious Hammerskull
 1x Palani's Hatcher
 
-### Sorceries (10)
+Sorceries (10)
 1x Cultivate
 1x Kodama's Reach
 1x Farseek
@@ -92,7 +93,7 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Commune with Dinosaurs
 1x Blasphemous Act
 
-### Instants (9)
+Instants (9)
 1x Swords to Plowshares
 1x Path to Exile
 1x Heroic Intervention
@@ -103,7 +104,7 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Akroma's Will
 1x Eladamri's Call
 
-### Enchantments (6)
+Enchantments (6)
 1x Rhythm of the Wild
 1x Elemental Bond
 1x Garruk's Uprising
@@ -111,7 +112,7 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Descendants' Path
 1x Where Ancients Tread
 
-### Artifacts (6)
+Artifacts (6)
 1x Sol Ring
 1x Arcane Signet
 1x Herald's Horn
@@ -119,7 +120,7 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Swiftfoot Boots
 1x The Great Henge
 
-### Lands (36)
+Lands (36)
 9x Forest
 5x Mountain
 4x Plains
@@ -141,3 +142,4 @@ The early game is all ramp — Farseek, Cultivate, Kodama's Reach, and cost redu
 1x Game Trail
 1x Mossfire Valley
 1x Temple of the False God
+```

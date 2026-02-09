@@ -41,10 +41,11 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Kokusho, the Evening Star
 
-### Creatures (27)
+Creatures (27)
 1x Nether Traitor
 1x Thief of Hope
 1x Kagemaro, First to Suffer
@@ -73,7 +74,7 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Sidisi, Undead Vizier
 1x Mikaeus, the Unhallowed
 
-### Sorceries (8)
+Sorceries (8)
 1x Reanimate
 1x Victimize
 1x Living Death
@@ -83,7 +84,7 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Toxic Deluge
 1x Devouring Greed
 
-### Instants (9)
+Instants (9)
 1x Supernatural Stamina
 1x Feign Death
 1x Undying Evil
@@ -94,7 +95,7 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Malakir Rebirth
 1x Hero's Downfall
 
-### Enchantments (8)
+Enchantments (8)
 1x Animate Dead
 1x Necromancy
 1x Phyrexian Reclamation
@@ -104,7 +105,7 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Wound Reflection
 1x Kaya's Ghostform
 
-### Artifacts (11)
+Artifacts (11)
 1x Sol Ring
 1x Arcane Signet
 1x Charcoal Diamond
@@ -117,7 +118,7 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Lightning Greaves
 1x Whip of Erebos
 
-### Lands (36)
+Lands (36)
 1x Cabal Coffers
 1x Urborg, Tomb of Yawgmoth
 1x Phyrexian Tower
@@ -132,3 +133,4 @@ Ramp to 6 mana and cast Kokusho. Hold up a 1-mana save spell (Supernatural Stami
 1x Barren Moor
 1x Polluted Mire
 23x Swamp
+```

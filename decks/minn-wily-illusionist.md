@@ -39,10 +39,11 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Minn, Wily Illusionist
 
-### Creatures (27)
+Creatures (27)
 1x Lord of the Unreal
 1x Phantasmal Image
 1x Jace's Phantasm
@@ -71,15 +72,15 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 1x Ixidron
 1x Sower of Temptation
 
-### Planeswalkers (1)
+Planeswalkers (1)
 1x Jace, the Mind Sculptor
 
-### Sorceries (3)
+Sorceries (3)
 1x Ponder
 1x Preordain
 1x Windfall
 
-### Instants (15)
+Instants (15)
 1x Brainstorm
 1x Frantic Search
 1x Mystical Tutor
@@ -96,7 +97,7 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 1x High Tide
 1x Dig Through Time
 
-### Enchantments (8)
+Enchantments (8)
 1x Rhystic Study
 1x Mystic Remora
 1x Teferi's Ageless Insight
@@ -106,7 +107,7 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 1x Coastal Piracy
 1x War Tax
 
-### Artifacts (10)
+Artifacts (10)
 1x Sol Ring
 1x Mind Stone
 1x Thought Vessel
@@ -118,7 +119,7 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 1x Everflowing Chalice
 1x Worn Powerstone
 
-### Lands (35)
+Lands (35)
 29x Island
 1x Mystic Sanctuary
 1x Reliquary Tower
@@ -126,3 +127,4 @@ No 2-card combos before turn 6. No mass land denial. The deck wins through incre
 1x Flooded Strand
 1x Lonely Sandbar
 1x Academy Ruins
+```

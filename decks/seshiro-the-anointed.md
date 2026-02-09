@@ -35,10 +35,11 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Seshiro the Anointed
 
-### Creatures (34)
+Creatures (34)
 1x Sosuke, Son of Seshiro
 1x Shisato, Whispering Hunter
 1x Sachi, Daughter of Seshiro
@@ -74,7 +75,7 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Topiary Stomper
 1x Toski, Bearer of Secrets
 
-### Sorceries (8)
+Sorceries (8)
 1x Overwhelming Stampede
 1x Triumph of the Hordes
 1x Natural Order
@@ -84,7 +85,7 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Rampant Growth
 1x Green Sun's Zenith
 
-### Instants (7)
+Instants (7)
 1x Beast Within
 1x Heroic Intervention
 1x Cobra Trap
@@ -93,7 +94,7 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Wrap in Vigor
 1x Nature's Claim
 
-### Enchantments (7)
+Enchantments (7)
 1x Guardian Project
 1x Beastmaster Ascension
 1x Snake Pit
@@ -102,7 +103,7 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Growing Rites of Itlimoc
 1x Elemental Bond
 
-### Artifacts (8)
+Artifacts (8)
 1x Sol Ring
 1x Orochi Hatchery
 1x Herald's Horn
@@ -112,7 +113,7 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Swiftfoot Boots
 1x Obelisk of Urd
 
-### Lands (35)
+Lands (35)
 1x Gaea's Cradle
 1x Nykthos, Shrine to Nyx
 1x Castle Garenbrig
@@ -124,3 +125,4 @@ Ramp early with Sakura-Tribe Elder, Cultivate, and mana snakes like Orochi Susta
 1x Okina, Temple to the Grandfathers
 1x War Room
 25x Forest
+```

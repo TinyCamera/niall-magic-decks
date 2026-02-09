@@ -35,10 +35,11 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Takeno, Samurai General
 
-### Creatures (29)
+Creatures (29)
 1x Konda, Lord of Eiganjo
 1x Nagao, Bound by Honor
 1x Sensei Golden-Tail
@@ -69,17 +70,17 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 1x Mentor of the Meek
 1x Sun Titan
 
-### Planeswalkers (1)
+Planeswalkers (1)
 1x The Wandering Emperor
 
-### Sorceries (5)
+Sorceries (5)
 1x Farewell
 1x Imperial Oath
 1x Open the Armory
 1x Cut a Deal
 1x Gift of Estates
 
-### Instants (8)
+Instants (8)
 1x Swords to Plowshares
 1x Path to Exile
 1x Brave the Elements
@@ -89,7 +90,7 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 1x Rebuff the Wicked
 1x Enlightened Tutor
 
-### Enchantments (7)
+Enchantments (7)
 1x Smothering Tithe
 1x Honor of the Pure
 1x Flowering of the White Tree
@@ -98,7 +99,7 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 1x Cathars' Crusade
 1x Ghostly Prison
 
-### Artifacts (12)
+Artifacts (12)
 1x Sol Ring
 1x Arcane Signet
 1x Pearl Medallion
@@ -112,7 +113,7 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 1x Vanquisher's Banner
 1x Door of Destinies
 
-### Lands (37)
+Lands (37)
 1x Eiganjo Castle
 1x Eiganjo, Seat of the Empire
 1x Emeria, the Sky Ruin
@@ -123,3 +124,4 @@ Deploy cheap samurai in the early turns while ramping with Sol Ring, Arcane Sign
 1x Castle Ardenvale
 1x Temple of the False God
 28x Plains
+```

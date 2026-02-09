@@ -42,10 +42,11 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Magda, Brazen Outlaw
 
-### Creatures (32)
+Creatures (32)
 1x Dwarven Grunt
 1x Axgard Cavalry
 1x Bloodfire Dwarf
@@ -79,7 +80,7 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 1x Cavern-Hoard Dragon
 1x Utvara Hellkite
 
-### Sorceries (6)
+Sorceries (6)
 1x Blasphemous Act
 1x Vandalblast
 1x Seize the Spoils
@@ -87,7 +88,7 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 1x Brass's Bounty
 1x Sundering Eruption
 
-### Instants (8)
+Instants (8)
 1x Lightning Bolt
 1x Chaos Warp
 1x Abrade
@@ -97,12 +98,12 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 1x Bottle-Cap Blast
 1x Return the Favor
 
-### Enchantments (3)
+Enchantments (3)
 1x Blood Moon
 1x Sticky Fingers
 1x There and Back Again
 
-### Artifacts (15)
+Artifacts (15)
 1x Sol Ring
 1x Springleaf Drum
 1x Liquimetal Torque
@@ -119,7 +120,7 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 1x Spine of Ish Sah
 1x God-Pharaoh's Statue
 
-### Lands (35)
+Lands (35)
 24x Mountain
 1x Treasure Vault
 1x Dwarven Mine
@@ -132,3 +133,4 @@ Deploy Magda early, then flood the board with cheap dwarves and vehicles to tap 
 1x Command Beacon
 1x Buried Ruin
 1x Shinka, the Bloodsoaked Keep
+```

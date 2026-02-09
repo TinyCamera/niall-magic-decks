@@ -44,10 +44,11 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Omnath, Locus of Rage
 
-### Creatures (28)
+Creatures (28)
 1x Ancient Greenwarden
 1x Avenger of Zendikar
 1x Azusa, Lost but Seeking
@@ -77,11 +78,11 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 1x Rampant Frogantua
 1x Sabotender
 
-### Planeswalkers (2)
+Planeswalkers (2)
 1x Nissa, Vital Force
 1x Nissa, Who Shakes the World
 
-### Sorceries (17)
+Sorceries (17)
 1x Awaken the Woods
 1x Blasphemous Act
 1x Cultivate
@@ -100,13 +101,13 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 1x Three Visits
 1x Worldsoul's Rage
 
-### Instants (4)
+Instants (4)
 1x Beast Within
 1x Chaos Warp
 1x Crop Rotation
 1x Harrow
 
-### Enchantments (10)
+Enchantments (10)
 1x Elemental Bond
 1x Exploration
 1x Burgeoning
@@ -118,14 +119,14 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 1x Where Ancients Tread
 1x Zendikar's Roil
 
-### Artifacts (5)
+Artifacts (5)
 1x Conduit of Worlds
 1x Crucible of Worlds
 1x Seer's Sundial
 1x Sol Ring
 1x Swiftfoot Boots
 
-### Lands (40)
+Lands (40)
 1x Blighted Woodland
 1x Cabaretti Courtyard
 1x Cinder Glade
@@ -141,3 +142,4 @@ Spend the early game ramping with spells like Cultivate, Kodama's Reach, and Nat
 1x Rootbound Crag
 1x Sheltered Thicket
 1x Terramorphic Expanse
+```

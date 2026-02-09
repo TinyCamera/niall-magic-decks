@@ -45,10 +45,11 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Sephiroth, Fabled SOLDIER
 
-### Creatures (27)
+Creatures (27)
 1x Jadar, Ghoulcaller of Nephalia
 1x Ophiomancer
 1x Endrek Sahr, Master Breeder
@@ -77,7 +78,7 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Pitiless Plunderer
 1x Warren Soultrader
 
-### Sorceries (8)
+Sorceries (8)
 1x Demonic Tutor
 1x Diabolic Intent
 1x Buried Alive
@@ -87,7 +88,7 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Night's Whisper
 1x Sign in Blood
 
-### Instants (6)
+Instants (6)
 1x Deadly Dispute
 1x Village Rites
 1x Malakir Rebirth
@@ -95,7 +96,7 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Dark Ritual
 1x Cabal Ritual
 
-### Enchantments (10)
+Enchantments (10)
 1x Bitterblossom
 1x Bastion of Remembrance
 1x Dark Prophecy
@@ -107,7 +108,7 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Vampiric Rites
 1x Animate Dead
 
-### Artifacts (12)
+Artifacts (12)
 1x Ashnod's Altar
 1x Phyrexian Altar
 1x Altar of Dementia
@@ -121,7 +122,7 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Lightning Greaves
 1x Swiftfoot Boots
 
-### Lands (36)
+Lands (36)
 1x Urborg, Tomb of Yawgmoth
 1x Cabal Coffers
 1x Bojuka Bog
@@ -134,3 +135,4 @@ The deck generates expendable tokens and recursive creatures to fuel Sephiroth's
 1x Reliquary Tower
 1x Myriad Landscape
 25x Swamp
+```

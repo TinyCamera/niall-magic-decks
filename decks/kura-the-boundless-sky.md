@@ -34,10 +34,11 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 
 ## Decklist
 
-### Commander (1)
+```
+Commander (1)
 1x Kura, the Boundless Sky
 
-### Creatures (28)
+Creatures (28)
 1x Azusa, Lost but Seeking
 1x Sakura-Tribe Elder
 1x Lotus Cobra
@@ -67,7 +68,7 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Beast Whisperer
 1x Selvala, Heart of the Wilds
 
-### Sorceries (11)
+Sorceries (11)
 1x Tooth and Nail
 1x Life from the Loam
 1x Nature's Lore
@@ -80,7 +81,7 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Regrowth
 1x Natural Order
 
-### Instants (6)
+Instants (6)
 1x Crop Rotation
 1x Heroic Intervention
 1x Return of the Wildspeaker
@@ -88,7 +89,7 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Beast Within
 1x Force of Vigor
 
-### Enchantments (6)
+Enchantments (6)
 1x Garruk's Uprising
 1x Burgeoning
 1x Evolutionary Leap
@@ -96,7 +97,7 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Greater Good
 1x Zendikar Resurgent
 
-### Artifacts (7)
+Artifacts (7)
 1x Sol Ring
 1x Expedition Map
 1x Crucible of Worlds
@@ -105,7 +106,7 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Amulet of Vigor
 1x Zuran Orb
 
-### Lands (41)
+Lands (41)
 1x Ancient Tomb
 1x Urza's Tower
 1x Urza's Mine
@@ -130,3 +131,4 @@ Early turns: play ramp creatures (Sakura-Tribe Elder, Lotus Cobra, Azusa) and la
 1x Scavenger Grounds
 1x Myriad Landscape
 18x Forest
+```
